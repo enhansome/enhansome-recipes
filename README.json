@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anduin2017/HowToCook",
+          "description": "A programmer's guide to cooking at home (Simplified Chinese).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T06:37:38Z",
+            "owner": "Anduin2017",
+            "repo": "HowToCook",
+            "stars": 101759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YunYouJun/cook",
+          "description": "🍲 OK, Let's Cook! A collection of Chinese recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:00:52Z",
+            "owner": "YunYouJun",
+            "repo": "cook",
+            "stars": 6478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Bread code",
+          "description": "Learn how to master the art of baking the programmer way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-28T14:27:57Z",
+            "owner": "hendricius",
+            "repo": "the-bread-code",
+            "stars": 4138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1337 Noms The Hacker Cookbook",
+          "description": "food food food.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "M4",
+            "last_commit": "2026-07-20T05:55:48Z",
+            "owner": "pale-shadow",
+            "repo": "1337-Noms-The-Hacker-Cookbook",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auntiesrecipes",
+          "description": "A searchable archive of BBC Food Recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-16T11:38:48Z",
+            "owner": "user24",
+            "repo": "auntiesrecipes",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Food Recipes",
+          "description": "Honest-to-goodness \"real food\" recipes..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2021-12-19T23:55:34Z",
+            "owner": "obfuscurity",
+            "repo": "food-recipes",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recipes",
+          "description": "Anthony's collection of cooking recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T00:00:26Z",
+            "owner": "panozzaj",
+            "repo": "recipes",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recipes",
+          "description": "Version control: it's what's for dinner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-10T23:29:40Z",
+            "owner": "dolph",
+            "repo": "recipes",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tasty Cooking",
+          "description": "A modern recipe collection website optimized for performance, accessibility, and visual appeal with no clutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-07-31T01:17:38Z",
+            "owner": "douvy",
+            "repo": "tasty-cooking",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Con Sazón",
+          "description": "A meal planning app and recipe collection centering Latinx and BIPOC gastronomy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-13T02:45:11Z",
+            "owner": "AshtarCodes",
+            "repo": "Con-Sazon",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recipyzer",
+          "description": "A meticulously organized repository of recipes categorized by cuisine, season, holiday, and dietary needs.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Cooking Recipes",
+          "description": "For my adventures in cooking.",
+          "children": []
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pizza-dough",
+          "description": "This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-13T10:50:02Z",
+            "owner": "hendricius",
+            "repo": "pizza-dough",
+            "stars": 3656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tacofancy",
+          "description": "Community-driven taco repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2024-04-20T07:13:14Z",
+            "owner": "dansinker",
+            "repo": "tacofancy",
+            "stars": 1299
+          }
+        }
+      ],
+      "title": "Dishes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Sourdough Framework",
+          "description": "Open source book for making sourdough bread at home.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-05T12:03:31Z",
+            "owner": "hendricius",
+            "repo": "the-sourdough-framework",
+            "stars": 3611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Bagels",
+          "description": "Aims to be the best open source bagel recipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-03T00:12:25Z",
+            "owner": "andrewkern",
+            "repo": "bagels",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Dough Sheeter",
+          "description": "A 3D-printable dough sheeter for home bakers.",
+          "children": []
+        }
+      ],
+      "title": "Baking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bar Assistant",
+          "description": "A self-hosted application for managing your home bar and cocktail recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T19:41:31Z",
+            "owner": "karlomikus",
+            "repo": "bar-assistant",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Drinks",
+          "description": "A community-driven collection of drink and cocktail recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-20T21:56:43Z",
+            "owner": "alfg",
+            "repo": "opendrinks",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CocktailBerry",
+          "description": "Software for DIY Raspberry Pi-based cocktail making machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:58:23Z",
+            "owner": "AndreWohnsland",
+            "repo": "CocktailBerry",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Drinks & Cocktails"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mealie",
+          "description": "Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:24:38Z",
+            "owner": "mealie-recipes",
+            "repo": "mealie",
+            "stars": 12963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grocy",
+          "description": "A self-hosted groceries and household management solution with recipe and meal planning features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T19:34:34Z",
+            "owner": "grocy",
+            "repo": "grocy",
+            "stars": 9382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tandoor Recipes",
+          "description": "Application for managing recipes, planning meals, building shopping lists and much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T14:02:55Z",
+            "owner": "TandoorRecipes",
+            "repo": "recipes",
+            "stars": 8523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chowdown",
+          "description": "Simple recipes in Markdown format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-01T09:44:50Z",
+            "owner": "clarklab",
+            "repo": "chowdown",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextcloud Cookbook",
+          "description": "Recipe management app for Nextcloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T01:13:05Z",
+            "owner": "nextcloud",
+            "repo": "cookbook",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Food Recipe CNN",
+          "description": "DeepChef: Classification of Cooking Dishes with Machine Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T16:27:26Z",
+            "owner": "Murgio",
+            "repo": "Food-Recipe-CNN",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-vegan",
+          "description": "A tool to help identify vegan and non-vegan food ingredients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-18T12:09:22Z",
+            "owner": "hmontazeri",
+            "repo": "is-vegan",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recipya",
+          "description": "A clean, simple and powerful self-hosted recipe manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T18:30:58Z",
+            "owner": "reaper47",
+            "repo": "recipya",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RasPiBrew",
+          "description": "Raspberry Pi Temperature Controller for homebrewing and sous vide cooking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-09T13:56:12Z",
+            "owner": "steve71",
+            "repo": "RasPiBrew",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mealient",
+          "description": "An Android client for the Mealie self-hosted recipe manager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-11-09T16:44:27Z",
+            "owner": "kirmanak",
+            "repo": "Mealient",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meanrecipe",
+          "description": "Get a consensus recipe for your next meal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-11-21T04:25:47Z",
+            "owner": "schollz",
+            "repo": "meanrecipe",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "recipebook",
+          "description": "This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-09T23:32:50Z",
+            "owner": "dpapathanasiou",
+            "repo": "recipebook",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foodprocessor",
+          "description": "A react/mobx javascript app for displaying recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-15T09:45:56Z",
+            "owner": "pearofducks",
+            "repo": "react-foodprocessor",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecipeParser",
+          "description": "A tool to convert online recipes into Markdown format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-24T20:49:36Z",
+            "owner": "Brooke-white",
+            "repo": "RecipeParser",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domingo Fermenter Software",
+          "description": "Software for controlling food fermentation processes (koji, tempeh).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T20:08:55Z",
+            "owner": "domingoclub",
+            "repo": "fermenter-software",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recipe Hero",
+          "description": "A free recipe plugin that makes food taste better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2015-04-21T00:38:44Z",
+            "owner": "bryceadams",
+            "repo": "Recipe-Hero",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEWPlanner",
+          "description": "A smart meal planner with a focus on diabetic-friendly meals (NUS-ISS project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-05-18T20:21:31Z",
+            "owner": "eleow",
+            "repo": "IRS-MR-2019-07-01-IS1FT-GRP-MEWPlanner",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React Native Recipes App Template",
+          "description": "A starter template for recipe apps in React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-28T10:41:35Z",
+            "owner": "dopebase",
+            "repo": "react-native-recipes-app",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Recipe App Template (hungry)",
+          "description": "A starter template for building recipe apps with Flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-10-09T17:35:49Z",
+            "owner": "mrezkys",
+            "repo": "hungry",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cook-It Android XML Template",
+          "description": "Android XML layouts for a cooking/recipe app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-03-07T13:06:59Z",
+            "owner": "dytlabs",
+            "repo": "Cook-It-Android-XML-Template",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Developer Resources"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, bbbenji has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:03.434Z",
+    "original_repository": "bbbenji/awesome-recipes",
+    "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
+    "enhanced_repository": "enhansome/enhansome-recipes",
+    "enhanced_repository_description": null,
+    "title": "Awesome Recipes with stars"
+  }
+}
