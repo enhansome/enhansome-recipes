@@ -13,9 +13,9 @@
 
 ## Collections
 
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,759 | 🐛 464 | 📅 2026-08-09 - A programmer's guide to cooking at home (Simplified Chinese).
-* [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,478 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
-* [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,138 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,772 | 🐛 464 | 📅 2026-08-09 - A programmer's guide to cooking at home (Simplified Chinese).
+* [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,479 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
+* [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,139 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) ⭐ 249 | 🐛 7 | 🌐 M4 | 📅 2026-07-20 - food food food.
 * [auntiesrecipes](https://github.com/user24/auntiesrecipes) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-16 - A searchable archive of BBC Food Recipes.
 * [Food Recipes](https://github.com/obfuscurity/food-recipes) ⭐ 57 | 🐛 0 | 🌐 Elixir | 📅 2021-12-19 - Honest-to-goodness "real food" recipes..
@@ -39,20 +39,20 @@
 
 ## Baking
 
-* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,611 | 🐛 23 | 🌐 TeX | 📅 2026-06-05 - Open source book for making sourdough bread at home.
+* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,612 | 🐛 23 | 🌐 TeX | 📅 2026-06-05 - Open source book for making sourdough bread at home.
 * [Open Source Bagels](https://github.com/andrewkern/bagels) ⭐ 29 | 🐛 2 | 📅 2024-11-03 - Aims to be the best open source bagel recipe.
 * [Open Source Dough Sheeter](https://github.com/frenchguycooking/doughsheeter) - A 3D-printable dough sheeter for home bakers.
 
 ## Drinks & Cocktails
 
-* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,061 | 🐛 29 | 🌐 PHP | 📅 2026-08-12 - A self-hosted application for managing your home bar and cocktail recipes.
+* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,062 | 🐛 29 | 🌐 PHP | 📅 2026-08-12 - A self-hosted application for managing your home bar and cocktail recipes.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 410 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20 - A community-driven collection of drink and cocktail recipes.
-* [CocktailBerry](https://github.com/AndreWohnsland/CocktailBerry) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2026-08-12 - Software for DIY Raspberry Pi-based cocktail making machines.
+* [CocktailBerry](https://github.com/AndreWohnsland/CocktailBerry) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2026-08-13 - Software for DIY Raspberry Pi-based cocktail making machines.
 
 ## Tools
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 12,963 | 🐛 218 | 🌐 Python | 📅 2026-08-12 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
-* [Grocy](https://github.com/grocy/grocy) ⭐ 9,382 | 🐛 140 | 🌐 JavaScript | 📅 2026-07-21 - A self-hosted groceries and household management solution with recipe and meal planning features.
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 12,967 | 🐛 217 | 🌐 Python | 📅 2026-08-13 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
+* [Grocy](https://github.com/grocy/grocy) ⭐ 9,384 | 🐛 140 | 🌐 JavaScript | 📅 2026-07-21 - A self-hosted groceries and household management solution with recipe and meal planning features.
 * [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,523 | 🐛 412 | 🌐 HTML | 📅 2026-08-12 - Application for managing recipes, planning meals, building shopping lists and much more.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 666 | 🐛 30 | 🌐 HTML | 📅 2026-08-01 - Simple recipes in Markdown format.
 * [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 631 | 🐛 314 | 🌐 HTML | 📅 2026-08-11 - Recipe management app for Nextcloud.
