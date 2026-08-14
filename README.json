@@ -14,7 +14,7 @@
             "last_commit": "2026-08-09T06:37:38Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101772
+            "stars": 101794
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:00:52Z",
+            "last_commit": "2026-08-14T06:23:51Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6479
+            "stars": 6478
           }
         },
         {
@@ -243,7 +243,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T19:41:31Z",
+            "last_commit": "2026-08-14T14:18:07Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
             "stars": 1062
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T13:30:32Z",
+            "last_commit": "2026-08-13T18:48:03Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 86
@@ -291,10 +291,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T06:17:41Z",
+            "last_commit": "2026-08-14T11:10:18Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 12967
+            "stars": 12973
           }
         },
         {
@@ -308,7 +308,7 @@
             "last_commit": "2026-07-21T19:34:34Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9384
+            "stars": 9387
           }
         },
         {
@@ -319,10 +319,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T14:02:55Z",
+            "last_commit": "2026-08-13T20:35:49Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8523
+            "stars": 8525
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-11T01:13:05Z",
+            "last_commit": "2026-08-14T14:21:14Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 631
@@ -389,10 +389,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T18:30:58Z",
+            "last_commit": "2026-08-14T06:06:19Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:45:39.469Z",
+    "last_updated": "2026-08-14T14:40:22.403Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
     "enhanced_repository": "enhansome/enhansome-recipes",
