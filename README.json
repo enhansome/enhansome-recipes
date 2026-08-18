@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T12:25:16Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101860
+            "stars": 101875
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-17T13:28:33Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6482
+            "stars": 6483
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-12-28T14:27:57Z",
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4139
+            "stars": 4140
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-20T05:55:48Z",
             "owner": "pale-shadow",
             "repo": "1337-Noms-The-Hacker-Cookbook",
-            "stars": 249
+            "stars": 250
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-01-13T10:50:02Z",
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3656
+            "stars": 3657
           }
         },
         {
@@ -206,7 +206,7 @@
             "last_commit": "2026-06-05T12:03:31Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3612
+            "stars": 3613
           }
         },
         {
@@ -243,10 +243,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-17T13:47:44Z",
+            "last_commit": "2026-08-17T20:06:22Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1063
+            "stars": 1064
           }
         },
         {
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:34:15Z",
+            "last_commit": "2026-08-17T18:15:36Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 87
@@ -291,10 +291,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T06:54:33Z",
+            "last_commit": "2026-08-18T09:23:22Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13005
+            "stars": 13010
           }
         },
         {
@@ -319,10 +319,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-16T15:24:50Z",
+            "last_commit": "2026-08-18T13:00:56Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8535
+            "stars": 8536
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-01T09:44:50Z",
             "owner": "clarklab",
             "repo": "chowdown",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-17T01:09:08Z",
+            "last_commit": "2026-08-18T01:10:09Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 635
@@ -364,7 +364,7 @@
             "last_commit": "2022-12-08T16:27:26Z",
             "owner": "Murgio",
             "repo": "Food-Recipe-CNN",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-08-15T02:20:06Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:05:36.240Z",
+    "last_updated": "2026-08-18T14:17:23.663Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
     "enhanced_repository": "enhansome/enhansome-recipes",
