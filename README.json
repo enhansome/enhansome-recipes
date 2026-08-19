@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243950408,
             "language": null,
             "last_commit": "2026-08-17T12:25:16Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101875
+            "stars": 101892
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481217412,
             "language": "TypeScript",
             "last_commit": "2026-08-17T13:28:33Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6483
+            "stars": 6485
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125511962,
             "language": "Shell",
             "last_commit": "2025-12-28T14:27:57Z",
             "owner": "hendricius",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60211183,
             "language": "M4",
             "last_commit": "2026-07-20T05:55:48Z",
             "owner": "pale-shadow",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59045406,
             "language": "JavaScript",
             "last_commit": "2017-12-16T11:38:48Z",
             "owner": "user24",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4642826,
             "language": "Elixir",
             "last_commit": "2021-12-19T23:55:34Z",
             "owner": "obfuscurity",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12491742,
             "language": null,
             "last_commit": "2026-08-05T00:00:26Z",
             "owner": "panozzaj",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13413824,
             "language": null,
             "last_commit": "2026-04-10T23:29:40Z",
             "owner": "dolph",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 988407615,
             "language": "MDX",
             "last_commit": "2026-07-31T01:17:38Z",
             "owner": "douvy",
@@ -136,30 +145,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369613327,
             "language": "JavaScript",
             "last_commit": "2023-07-13T02:45:11Z",
             "owner": "AshtarCodes",
             "repo": "Con-Sazon",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "recipyzer",
-          "description": "A meticulously organized repository of recipes categorized by cuisine, season, holiday, and dietary needs.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Cooking Recipes",
-          "description": "For my adventures in cooking.",
-          "children": []
         }
       ],
       "title": "Collections"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -168,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164221729,
             "language": "HTML",
             "last_commit": "2026-01-13T10:50:02Z",
             "owner": "hendricius",
@@ -182,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14077075,
             "language": "CoffeeScript",
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
@@ -193,7 +193,7 @@
       "title": "Dishes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -202,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450634273,
             "language": "TeX",
             "last_commit": "2026-06-05T12:03:31Z",
             "owner": "hendricius",
@@ -216,24 +217,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438029870,
             "language": null,
             "last_commit": "2024-11-03T00:12:25Z",
             "owner": "andrewkern",
             "repo": "bagels",
             "stars": 29
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Source Dough Sheeter",
-          "description": "A 3D-printable dough sheeter for home bakers.",
-          "children": []
         }
       ],
       "title": "Baking"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -242,8 +238,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 545016751,
             "language": "PHP",
-            "last_commit": "2026-08-17T20:06:22Z",
+            "last_commit": "2026-08-18T19:51:50Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
             "stars": 1064
@@ -256,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208540153,
             "language": "JavaScript",
             "last_commit": "2026-06-20T21:56:43Z",
             "owner": "alfg",
@@ -270,8 +268,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185077056,
             "language": "Python",
-            "last_commit": "2026-08-17T18:15:36Z",
+            "last_commit": "2026-08-19T07:03:12Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 87
@@ -281,7 +280,7 @@
       "title": "Drinks & Cocktails"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -290,11 +289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-18T09:23:22Z",
+            "last_commit": "2026-08-19T09:55:05Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13010
+            "stars": 13023
           }
         },
         {
@@ -304,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88370518,
             "language": "JavaScript",
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9391
+            "stars": 9393
           }
         },
         {
@@ -318,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221546437,
             "language": "HTML",
-            "last_commit": "2026-08-18T13:00:56Z",
+            "last_commit": "2026-08-18T15:45:02Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8536
+            "stars": 8537
           }
         },
         {
@@ -332,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29623295,
             "language": "HTML",
             "last_commit": "2026-08-01T09:44:50Z",
             "owner": "clarklab",
@@ -346,8 +349,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-18T01:10:09Z",
+            "last_commit": "2026-08-19T01:35:53Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 635
@@ -360,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116259684,
             "language": "Jupyter Notebook",
             "last_commit": "2022-12-08T16:27:26Z",
             "owner": "Murgio",
@@ -374,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120149211,
             "language": "TypeScript",
             "last_commit": "2025-11-18T12:09:22Z",
             "owner": "hmontazeri",
@@ -388,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368680440,
             "language": "Go",
             "last_commit": "2026-08-15T02:20:06Z",
             "owner": "reaper47",
@@ -402,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4826094,
             "language": "Python",
             "last_commit": "2017-10-09T13:56:12Z",
             "owner": "steve71",
@@ -416,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 431195533,
             "language": "Kotlin",
             "last_commit": "2024-11-09T16:44:27Z",
             "owner": "kirmanak",
@@ -430,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125814354,
             "language": "Go",
             "last_commit": "2022-11-21T04:25:47Z",
             "owner": "schollz",
@@ -444,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81031685,
             "language": "Python",
             "last_commit": "2020-05-09T23:32:50Z",
             "owner": "dpapathanasiou",
@@ -458,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65077778,
             "language": "JavaScript",
             "last_commit": "2016-09-15T09:45:56Z",
             "owner": "pearofducks",
@@ -472,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58225495,
             "language": "Python",
             "last_commit": "2017-08-24T20:49:36Z",
             "owner": "Brooke-white",
@@ -486,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 449239592,
             "language": "Python",
             "last_commit": "2025-03-30T20:08:55Z",
             "owner": "domingoclub",
@@ -500,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21030117,
             "language": "PHP",
             "last_commit": "2015-04-21T00:38:44Z",
             "owner": "bryceadams",
@@ -514,78 +529,74 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194637976,
             "language": "CSS",
             "last_commit": "2021-05-18T20:21:31Z",
             "owner": "eleow",
             "repo": "IRS-MR-2019-07-01-IS1FT-GRP-MEWPlanner",
             "stars": 5
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "React Native Recipes App Template",
+              "description": "A starter template for recipe apps in React Native.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198348028,
+                "language": "JavaScript",
+                "last_commit": "2025-11-28T10:41:35Z",
+                "owner": "dopebase",
+                "repo": "react-native-recipes-app",
+                "stars": 818
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flutter Recipe App Template (hungry)",
+              "description": "A starter template for building recipe apps with Flutter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395735501,
+                "language": "Dart",
+                "last_commit": "2023-10-09T17:35:49Z",
+                "owner": "mrezkys",
+                "repo": "hungry",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cook-It Android XML Template",
+              "description": "Android XML layouts for a cooking/recipe app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80273733,
+                "language": "Java",
+                "last_commit": "2017-03-07T13:06:59Z",
+                "owner": "dytlabs",
+                "repo": "Cook-It-Android-XML-Template",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Developer Resources"
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "React Native Recipes App Template",
-          "description": "A starter template for recipe apps in React Native.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-28T10:41:35Z",
-            "owner": "dopebase",
-            "repo": "react-native-recipes-app",
-            "stars": 818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flutter Recipe App Template (hungry)",
-          "description": "A starter template for building recipe apps with Flutter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2023-10-09T17:35:49Z",
-            "owner": "mrezkys",
-            "repo": "hungry",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cook-It Android XML Template",
-          "description": "Android XML layouts for a cooking/recipe app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2017-03-07T13:06:59Z",
-            "owner": "dytlabs",
-            "repo": "Cook-It-Android-XML-Template",
-            "stars": 114
-          }
-        }
-      ],
-      "title": "Developer Resources"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, bbbenji has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:17:23.663Z",
+    "last_updated": "2026-08-19T12:48:04.808Z",
     "original_repository": "bbbenji/awesome-recipes",
+    "original_repository_id": 148030409,
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
     "enhanced_repository": "enhansome/enhansome-recipes",
     "enhanced_repository_description": null,
