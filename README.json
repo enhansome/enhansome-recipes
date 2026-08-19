@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T12:25:16Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101892
+            "stars": 101894
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-18T19:51:50Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1064
+            "stars": 1065
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-19T09:55:05Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13023
+            "stars": 13025
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-19T01:35:53Z",
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 635
+            "stars": 636
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:04.808Z",
+    "last_updated": "2026-08-19T14:17:50.388Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_id": 148030409,
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
