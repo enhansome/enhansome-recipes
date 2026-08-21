@@ -13,8 +13,8 @@
 
 ## Collections
 
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,912 | 🐛 466 | 📅 2026-08-20 - A programmer's guide to cooking at home (Simplified Chinese).
-* [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,485 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-17 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,920 | 🐛 465 | 📅 2026-08-20 - A programmer's guide to cooking at home (Simplified Chinese).
+* [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,484 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-17 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 * [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,141 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) ⭐ 249 | 🐛 7 | 🌐 M4 | 📅 2026-07-20 - food food food.
 * [auntiesrecipes](https://github.com/user24/auntiesrecipes) ⭐ 63 | 🐛 2 | 🌐 JavaScript | 📅 2017-12-16 - A searchable archive of BBC Food Recipes.
@@ -29,12 +29,12 @@
 
 ## Condiments / Sauces
 
-* [Recipe El Fuego Viviente](https://github.com/aweijnitz/recipe-el_fuego_viviente) ⭐ 1,739 | 🐛 8 | 📅 2022-08-03 - Fermented Chili Sauce.
+* [Recipe El Fuego Viviente](https://github.com/aweijnitz/recipe-el_fuego_viviente) ⭐ 1,738 | 🐛 8 | 📅 2022-08-03 - Fermented Chili Sauce.
 
 ## Dishes
 
 * [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,657 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
-* [tacofancy](https://github.com/sinker/tacofancy) ⭐ 1,299 | 🐛 15 | 🌐 CoffeeScript | 📅 2024-04-20 - Community-driven taco repo.
+* [tacofancy](https://github.com/sinker/tacofancy) ⭐ 1,300 | 🐛 15 | 🌐 CoffeeScript | 📅 2024-04-20 - Community-driven taco repo.
 * [Sexy Chicken Schnitzel](https://gist.github.com/buggymcbugfix/602f34214a37d972993830c2c9526cf0) - Chicken schnitzel, but sexy
 
 ## Baking
@@ -45,15 +45,15 @@
 
 ## Drinks & Cocktails
 
-* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,065 | 🐛 18 | 🌐 PHP | 📅 2026-08-20 - A self-hosted application for managing your home bar and cocktail recipes.
+* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,071 | 🐛 19 | 🌐 PHP | 📅 2026-08-21 - A self-hosted application for managing your home bar and cocktail recipes.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 410 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20 - A community-driven collection of drink and cocktail recipes.
-* [CocktailBerry](https://github.com/AndreWohnsland/CocktailBerry) ⭐ 87 | 🐛 2 | 🌐 Python | 📅 2026-08-20 - Software for DIY Raspberry Pi-based cocktail making machines.
+* [CocktailBerry](https://github.com/AndreWohnsland/CocktailBerry) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2026-08-20 - Software for DIY Raspberry Pi-based cocktail making machines.
 
 ## Tools
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,031 | 🐛 232 | 🌐 Python | 📅 2026-08-20 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
-* [Grocy](https://github.com/grocy/grocy) ⭐ 9,398 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-16 - A self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,539 | 🐛 414 | 🌐 HTML | 📅 2026-08-18 - Application for managing recipes, planning meals, building shopping lists and much more.
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,039 | 🐛 233 | 🌐 Python | 📅 2026-08-21 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
+* [Grocy](https://github.com/grocy/grocy) ⭐ 9,399 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-16 - A self-hosted groceries and household management solution with recipe and meal planning features.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,544 | 🐛 415 | 🌐 HTML | 📅 2026-08-20 - Application for managing recipes, planning meals, building shopping lists and much more.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 667 | 🐛 30 | 🌐 HTML | 📅 2026-08-01 - Simple recipes in Markdown format.
 * [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 637 | 🐛 312 | 🌐 HTML | 📅 2026-08-20 - Recipe management app for Nextcloud.
 * [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 589 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef: Classification of Cooking Dishes with Machine Learning.
@@ -87,4 +87,4 @@ To the extent possible under law, bbbenji has waived all copyright and related o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
