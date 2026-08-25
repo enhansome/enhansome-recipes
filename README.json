@@ -12,10 +12,10 @@
             "archived": false,
             "id": 243950408,
             "language": null,
-            "last_commit": "2026-08-20T07:14:07Z",
+            "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101954
+            "stars": 101963
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-23T17:52:32Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1080
+            "stars": 1081
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 185077056,
             "language": "Python",
-            "last_commit": "2026-08-22T12:58:39Z",
+            "last_commit": "2026-08-25T13:53:35Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 89
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-25T01:27:38Z",
+            "last_commit": "2026-08-25T14:21:23Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13065
+            "stars": 13072
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9419
+            "stars": 9420
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8556
+            "stars": 8558
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:48.233Z",
+    "last_updated": "2026-08-25T14:28:08.621Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_id": 148030409,
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
