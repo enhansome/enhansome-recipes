@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101949
+            "stars": 101954
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T13:28:33Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6487
+            "stars": 6491
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3614
+            "stars": 3615
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-22T12:58:39Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
-            "stars": 88
+            "stars": 89
           }
         }
       ],
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-24T13:00:00Z",
+            "last_commit": "2026-08-25T01:27:38Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13057
+            "stars": 13065
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9413
+            "stars": 9419
           }
         },
         {
@@ -321,10 +321,10 @@
             "archived": false,
             "id": 221546437,
             "language": "HTML",
-            "last_commit": "2026-08-24T07:45:49Z",
+            "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8555
+            "stars": 8556
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-08-15T02:20:06Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 410
+            "stars": 411
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:36.301Z",
+    "last_updated": "2026-08-25T06:36:48.233Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_id": 148030409,
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
