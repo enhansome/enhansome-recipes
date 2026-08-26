@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101963
+            "stars": 101976
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-17T13:28:33Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6491
+            "stars": 6492
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-01-13T10:50:02Z",
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3657
+            "stars": 3656
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3615
+            "stars": 3616
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-23T17:52:32Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1081
+            "stars": 1082
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 185077056,
             "language": "Python",
-            "last_commit": "2026-08-25T13:53:35Z",
+            "last_commit": "2026-08-25T16:39:51Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 89
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-25T14:21:23Z",
+            "last_commit": "2026-08-26T14:24:51Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13072
+            "stars": 13077
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9420
+            "stars": 9424
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8558
+            "stars": 8559
           }
         },
         {
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:05:02Z",
+            "last_commit": "2026-08-26T10:18:33Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 637
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:28:08.621Z",
+    "last_updated": "2026-08-26T14:27:22.561Z",
     "original_repository": "bbbenji/awesome-recipes",
     "original_repository_id": 148030409,
     "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
