@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101982
+            "stars": 101984
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3616
+            "stars": 3617
           }
         },
         {
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 545016751,
             "language": "PHP",
-            "last_commit": "2026-08-23T17:52:32Z",
+            "last_commit": "2026-08-27T18:32:58Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
             "stars": 1082
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 185077056,
             "language": "Python",
-            "last_commit": "2026-08-26T17:12:18Z",
+            "last_commit": "2026-08-27T18:47:41Z",
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 89
@@ -291,10 +291,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-27T11:51:38Z",
+            "last_commit": "2026-08-27T16:22:22Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13083
+            "stars": 13085
           }
         },
         {
@@ -306,10 +306,10 @@
             "archived": false,
             "id": 88370518,
             "language": "Blade",
-            "last_commit": "2026-08-26T19:23:22Z",
+            "last_commit": "2026-08-27T20:36:42Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9430
+            "stars": 9431
           }
         },
         {
@@ -324,7 +324,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8562
+            "stars": 8564
           }
         },
         {
@@ -594,7 +594,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:23.611Z",
+    "last_updated": "2026-08-27T23:03:43.822Z",
     "original_repository_info": {
       "archived": false,
       "id": 148030409,
