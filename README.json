@@ -16,7 +16,8 @@
             "owner": "Anduin2017",
             "repo": "HowToCook",
             "stars": 101984
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-17T13:28:33Z",
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6492
-          }
+            "stars": 6494
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "hendricius",
             "repo": "the-bread-code",
             "stars": 4142
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "pale-shadow",
             "repo": "1337-Noms-The-Hacker-Cookbook",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "user24",
             "repo": "auntiesrecipes",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "obfuscurity",
             "repo": "food-recipes",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "panozzaj",
             "repo": "recipes",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "dolph",
             "repo": "recipes",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "douvy",
             "repo": "tasty-cooking",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "AshtarCodes",
             "repo": "Con-Sazon",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         }
       ],
       "title": "Collections"
@@ -172,7 +182,8 @@
             "owner": "hendricius",
             "repo": "pizza-dough",
             "stars": 3656
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1301
-          }
+            "stars": 1303
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         }
       ],
       "title": "Dishes"
@@ -208,7 +220,8 @@
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
             "stars": 3617
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "andrewkern",
             "repo": "bagels",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         }
       ],
       "title": "Baking"
@@ -240,11 +254,12 @@
             "archived": false,
             "id": 545016751,
             "language": "PHP",
-            "last_commit": "2026-08-27T18:32:58Z",
+            "last_commit": "2026-08-28T16:11:07Z",
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1082
-          }
+            "stars": 1086
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "alfg",
             "repo": "opendrinks",
             "stars": 410
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         }
       ],
       "title": "Drinks & Cocktails"
@@ -291,11 +308,12 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-27T16:22:22Z",
+            "last_commit": "2026-08-28T14:36:42Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13085
-          }
+            "stars": 13089
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -306,11 +324,12 @@
             "archived": false,
             "id": 88370518,
             "language": "Blade",
-            "last_commit": "2026-08-27T20:36:42Z",
+            "last_commit": "2026-08-28T15:39:24Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9431
-          }
+            "stars": 9432
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -324,8 +343,9 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8564
-          }
+            "stars": 8566
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "clarklab",
             "repo": "chowdown",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -351,11 +372,12 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-27T01:09:11Z",
+            "last_commit": "2026-08-28T01:14:57Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "Murgio",
             "repo": "Food-Recipe-CNN",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "hmontazeri",
             "repo": "is-vegan",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "reaper47",
             "repo": "recipya",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "steve71",
             "repo": "RasPiBrew",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "kirmanak",
             "repo": "Mealient",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "schollz",
             "repo": "meanrecipe",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "dpapathanasiou",
             "repo": "recipebook",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "pearofducks",
             "repo": "react-foodprocessor",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "Brooke-white",
             "repo": "RecipeParser",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "domingoclub",
             "repo": "fermenter-software",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "bryceadams",
             "repo": "Recipe-Hero",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "eleow",
             "repo": "IRS-MR-2019-07-01-IS1FT-GRP-MEWPlanner",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:12:57.939Z"
         },
         {
           "children": [
@@ -552,7 +586,8 @@
                 "owner": "dopebase",
                 "repo": "react-native-recipes-app",
                 "stars": 818
-              }
+              },
+              "first_seen": "2026-08-28T23:12:57.939Z"
             },
             {
               "node_type": "item",
@@ -567,7 +602,8 @@
                 "owner": "mrezkys",
                 "repo": "hungry",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T23:12:57.939Z"
             },
             {
               "node_type": "item",
@@ -582,7 +618,8 @@
                 "owner": "dytlabs",
                 "repo": "Cook-It-Android-XML-Template",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T23:12:57.939Z"
             }
           ],
           "description": null,
@@ -594,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:43.822Z",
+    "last_updated": "2026-08-28T23:12:57.939Z",
     "original_repository_info": {
       "archived": false,
       "id": 148030409,
