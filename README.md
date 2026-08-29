@@ -13,7 +13,7 @@
 
 ## Collections
 
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,984 | 🐛 464 | 📅 2026-08-25 - A programmer's guide to cooking at home (Simplified Chinese).
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,989 | 🐛 464 | 📅 2026-08-25 - A programmer's guide to cooking at home (Simplified Chinese).
 * [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,494 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-17 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 * [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,142 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [1337 Noms The Hacker Cookbook](https://github.com/DEAD10C5/1337-Noms-The-Hacker-Cookbook) ⭐ 249 | 🐛 7 | 🌐 M4 | 📅 2026-07-20 - food food food.
@@ -51,11 +51,11 @@
 
 ## Tools
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,089 | 🐛 226 | 🌐 Python | 📅 2026-08-28 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
-* [Grocy](https://github.com/grocy/grocy) ⭐ 9,432 | 🐛 134 | 🌐 Blade | 📅 2026-08-28 - A self-hosted groceries and household management solution with recipe and meal planning features.
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,089 | 🐛 229 | 🌐 Python | 📅 2026-08-29 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
+* [Grocy](https://github.com/grocy/grocy) ⭐ 9,435 | 🐛 134 | 🌐 Blade | 📅 2026-08-28 - A self-hosted groceries and household management solution with recipe and meal planning features.
 * [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,566 | 🐛 422 | 🌐 HTML | 📅 2026-08-25 - Application for managing recipes, planning meals, building shopping lists and much more.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 667 | 🐛 30 | 🌐 HTML | 📅 2026-08-01 - Simple recipes in Markdown format.
-* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 636 | 🐛 314 | 🌐 HTML | 📅 2026-08-28 - Recipe management app for Nextcloud.
+* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 636 | 🐛 314 | 🌐 HTML | 📅 2026-08-29 - Recipe management app for Nextcloud.
 * [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 589 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef: Classification of Cooking Dishes with Machine Learning.
 * [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 490 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - A tool to help identify vegan and non-vegan food ingredients.
 * [Recipya](https://github.com/reaper47/recipya) ⭐ 412 | 🐛 67 | 🌐 Go | 📅 2026-08-15 - A clean, simple and powerful self-hosted recipe manager.
@@ -87,4 +87,4 @@ To the extent possible under law, bbbenji has waived all copyright and related o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
