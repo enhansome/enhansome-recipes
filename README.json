@@ -19,7 +19,7 @@
             "open_issues": 464,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101989,
+            "stars": 101996,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6494,
+            "stars": 6492,
             "topics": [
               "cook",
               "food",
@@ -386,11 +386,11 @@
             "id": 545016751,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:11:07Z",
+            "last_commit": "2026-08-29T14:35:59Z",
             "open_issues": 17,
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1086,
+            "stars": 1087,
             "topics": [
               "api",
               "bar",
@@ -486,10 +486,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T02:30:05Z",
-            "open_issues": 229,
+            "open_issues": 232,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13089,
+            "stars": 13095,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -511,7 +511,7 @@
             "language": "Blade",
             "license": "MIT",
             "last_commit": "2026-08-28T15:39:24Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "grocy",
             "repo": "grocy",
             "stars": 9435,
@@ -541,11 +541,11 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T05:47:25Z",
-            "open_issues": 422,
+            "last_commit": "2026-08-29T12:23:53Z",
+            "open_issues": 423,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8566,
+            "stars": 8567,
             "topics": [
               "cookbook",
               "cooking",
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:57.463Z",
+    "last_updated": "2026-08-29T17:23:46.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
