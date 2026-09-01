@@ -19,7 +19,7 @@
             "open_issues": 464,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102041,
+            "stars": 102063,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6496,
+            "stars": 6497,
             "topics": [
               "cook",
               "food",
@@ -332,7 +332,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3619,
+            "stars": 3620,
             "topics": [
               "baking",
               "bread",
@@ -386,11 +386,11 @@
             "id": 545016751,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:35:59Z",
+            "last_commit": "2026-09-01T17:26:33Z",
             "open_issues": 17,
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1089,
+            "stars": 1090,
             "topics": [
               "api",
               "bar",
@@ -485,11 +485,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T18:43:05Z",
-            "open_issues": 226,
+            "last_commit": "2026-09-01T17:09:37Z",
+            "open_issues": 221,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13108,
+            "stars": 13119,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -514,7 +514,7 @@
             "open_issues": 134,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9440,
+            "stars": 9442,
             "topics": [
               "erp",
               "food",
@@ -596,7 +596,7 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T19:31:19Z",
+            "last_commit": "2026-09-01T00:52:26Z",
             "open_issues": 314,
             "owner": "nextcloud",
             "repo": "cookbook",
@@ -694,7 +694,7 @@
             "open_issues": 67,
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "docker",
               "food",
@@ -743,7 +743,7 @@
             "open_issues": 29,
             "owner": "kirmanak",
             "repo": "Mealient",
-            "stars": 170,
+            "stars": 171,
             "topics": [
               "android",
               "android-app",
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:41:48.180Z",
+    "last_updated": "2026-09-01T17:27:16.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
