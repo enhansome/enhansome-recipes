@@ -19,7 +19,7 @@
             "open_issues": 464,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102183,
+            "stars": 102189,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6504,
+            "stars": 6506,
             "topics": [
               "cook",
               "food",
@@ -276,7 +276,7 @@
             "open_issues": 4,
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3658,
+            "stars": 3659,
             "topics": [
               "baking",
               "cooking",
@@ -450,7 +450,7 @@
             "open_issues": 1,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "cocktail",
               "cocktail-berry",
@@ -485,11 +485,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T17:13:51Z",
-            "open_issues": 211,
+            "last_commit": "2026-09-08T23:19:27Z",
+            "open_issues": 210,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13167,
+            "stars": 13177,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -514,7 +514,7 @@
             "open_issues": 134,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9465,
+            "stars": 9474,
             "topics": [
               "erp",
               "food",
@@ -542,10 +542,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T15:54:48Z",
-            "open_issues": 371,
+            "open_issues": 373,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8579,
+            "stars": 8581,
             "topics": [
               "cookbook",
               "cooking",
@@ -596,11 +596,11 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T01:10:32Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-09T01:15:07Z",
+            "open_issues": 318,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "nextcloud",
               "recipe",
@@ -690,11 +690,11 @@
             "id": 368680440,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T05:51:36Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-09T07:20:24Z",
+            "open_issues": 68,
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 411,
+            "stars": 412,
             "topics": [
               "docker",
               "food",
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:32:07.902Z",
+    "last_updated": "2026-09-09T17:18:35.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
