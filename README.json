@@ -19,7 +19,7 @@
             "open_issues": 464,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102189,
+            "stars": 102187,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6506,
+            "stars": 6508,
             "topics": [
               "cook",
               "food",
@@ -71,7 +71,7 @@
             "open_issues": 9,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4141,
+            "stars": 4142,
             "topics": [
               "baking",
               "bread",
@@ -332,7 +332,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3619,
+            "stars": 3620,
             "topics": [
               "baking",
               "bread",
@@ -446,8 +446,8 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T16:06:16Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-10T17:07:49Z",
+            "open_issues": 2,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 91,
@@ -485,11 +485,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T23:19:27Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-10T16:29:40Z",
+            "open_issues": 216,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13177,
+            "stars": 13185,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -514,7 +514,7 @@
             "open_issues": 134,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9474,
+            "stars": 9478,
             "topics": [
               "erp",
               "food",
@@ -545,7 +545,7 @@
             "open_issues": 373,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8581,
+            "stars": 8586,
             "topics": [
               "cookbook",
               "cooking",
@@ -600,7 +600,7 @@
             "open_issues": 318,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 638,
+            "stars": 639,
             "topics": [
               "nextcloud",
               "recipe",
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:18:35.945Z",
+    "last_updated": "2026-09-10T17:13:50.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
