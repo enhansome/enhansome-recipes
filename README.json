@@ -15,11 +15,11 @@
             "id": 243950408,
             "language": null,
             "license": "Unlicense",
-            "last_commit": "2026-09-03T14:26:56Z",
+            "last_commit": "2026-09-18T13:18:56Z",
             "open_issues": 465,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102240,
+            "stars": 102261,
             "topics": [
               "chinese",
               "cookbook",
@@ -71,7 +71,7 @@
             "open_issues": 9,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4140,
+            "stars": 4141,
             "topics": [
               "baking",
               "bread",
@@ -305,7 +305,7 @@
             "open_issues": 15,
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1303,
+            "stars": 1304,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
@@ -332,7 +332,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3621,
+            "stars": 3622,
             "topics": [
               "baking",
               "bread",
@@ -386,7 +386,7 @@
             "id": 545016751,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-09-13T17:10:31Z",
+            "last_commit": "2026-09-17T17:52:04Z",
             "open_issues": 18,
             "owner": "karlomikus",
             "repo": "bar-assistant",
@@ -446,8 +446,8 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T14:47:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T18:47:43Z",
+            "open_issues": 4,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 92,
@@ -485,11 +485,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T16:59:48Z",
-            "open_issues": 196,
+            "last_commit": "2026-09-18T16:56:45Z",
+            "open_issues": 163,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13242,
+            "stars": 13250,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -514,7 +514,7 @@
             "open_issues": 135,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9509,
+            "stars": 9513,
             "topics": [
               "erp",
               "food",
@@ -542,10 +542,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T19:42:19Z",
-            "open_issues": 379,
+            "open_issues": 380,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8609,
+            "stars": 8610,
             "topics": [
               "cookbook",
               "cooking",
@@ -579,7 +579,7 @@
             "open_issues": 31,
             "owner": "clarklab",
             "repo": "chowdown",
-            "stars": 668,
+            "stars": 669,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
@@ -596,8 +596,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T00:53:39Z",
-            "open_issues": 321,
+            "last_commit": "2026-09-18T01:03:37Z",
+            "open_issues": 322,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 641,
@@ -1042,7 +1042,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:44:50.779Z",
+    "last_updated": "2026-09-18T17:14:04.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
