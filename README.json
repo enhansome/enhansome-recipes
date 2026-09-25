@@ -16,10 +16,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-09-23T03:41:08Z",
-            "open_issues": 464,
+            "open_issues": 465,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102332,
+            "stars": 102337,
             "topics": [
               "chinese",
               "cookbook",
@@ -29,6 +29,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CookLikeHOC",
+          "description": "Recipes from the Chinese fast-food chain Home Original Chicken, adapted for home cooking (Simplified Chinese).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+            "homepage": "https://cooklikehoc.soilzhu.su",
+            "id": 784788673,
+            "language": "Dockerfile",
+            "license": null,
+            "last_commit": "2026-09-17T12:33:59Z",
+            "open_issues": 132,
+            "owner": "Gar-b-age",
+            "repo": "CookLikeHOC",
+            "stars": 24673,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
         },
         {
           "node_type": "item",
@@ -46,7 +67,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6513,
+            "stars": 6515,
             "topics": [
               "cook",
               "food",
@@ -87,8 +108,29 @@
         },
         {
           "node_type": "item",
+          "title": "Based Cooking",
+          "description": "A simple, ad-free, community-maintained recipe website with no life stories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple culinary website.",
+            "homepage": null,
+            "id": 346364145,
+            "language": "CSS",
+            "license": "Unlicense",
+            "last_commit": "2026-09-09T06:51:41Z",
+            "open_issues": 6,
+            "owner": "LukeSmithxyz",
+            "repo": "based.cooking",
+            "stars": 2348,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "1337 Noms The Hacker Cookbook",
-          "description": "food food food.",
+          "description": "Food, food, food.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -133,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Food Recipes",
-          "description": "Honest-to-goodness \"real food\" recipes..",
+          "description": "Honest-to-goodness \"real food\" recipes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -332,7 +374,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3624,
+            "stars": 3625,
             "topics": [
               "baking",
               "bread",
@@ -367,6 +409,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Dough Sheeter",
+          "description": "A 3D-printable dough sheeter for home bakers, based on French Guy Cooking's design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open Source Dough Sheeter",
+            "homepage": null,
+            "id": 361588437,
+            "language": null,
+            "license": null,
+            "last_commit": "2019-06-05T15:31:39Z",
+            "open_issues": 0,
+            "owner": "sjop",
+            "repo": "doughsheeter",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
         }
       ],
       "title": "Baking"
@@ -374,6 +437,37 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Gaggiuino",
+          "description": "Open source mod adding pressure and temperature profiling to the Gaggia Classic espresso machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Gaggia Classic control project using microcontrollers.",
+            "homepage": "https://gaggiuino.github.io/#/",
+            "id": 353251675,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-22T05:49:55Z",
+            "open_issues": 1,
+            "owner": "Zer0-bit",
+            "repo": "gaggiuino",
+            "stars": 2670,
+            "topics": [
+              "arduino",
+              "blackpill",
+              "dimmer",
+              "diy",
+              "espresso",
+              "gaggia",
+              "gc",
+              "gcp",
+              "stm32f411"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
         {
           "node_type": "item",
           "title": "Bar Assistant",
@@ -436,6 +530,75 @@
         },
         {
           "node_type": "item",
+          "title": "Brewtarget",
+          "description": "Beer recipe design software for homebrewers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Main brewtarget source code repository.",
+            "homepage": null,
+            "id": 31685964,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-25T09:15:18Z",
+            "open_issues": 55,
+            "owner": "Brewtarget",
+            "repo": "brewtarget",
+            "stars": 360,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "de1app",
+          "description": "Open source tablet app for the Decent espresso machine, with shareable espresso profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 305791686,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-23T17:49:08Z",
+            "open_issues": 27,
+            "owner": "decentespresso",
+            "repo": "de1app",
+            "stars": 225,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Salt Rim",
+          "description": "Web frontend for Bar Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Salt Rim is a Vue based web client used for connecting to Bar Assistant server instance.",
+            "homepage": "https://barassistant.app",
+            "id": 546849828,
+            "language": "Vue",
+            "license": "MIT",
+            "last_commit": "2026-09-20T06:00:23Z",
+            "open_issues": 8,
+            "owner": "karlomikus",
+            "repo": "vue-salt-rim",
+            "stars": 151,
+            "topics": [
+              "bar",
+              "cocktails",
+              "home",
+              "self-hosted",
+              "vue"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "CocktailBerry",
           "description": "Software for DIY Raspberry Pi-based cocktail making machines.",
           "children": [],
@@ -446,8 +609,8 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T04:52:19Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-24T18:47:33Z",
+            "open_issues": 4,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 93,
@@ -485,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T16:39:04Z",
-            "open_issues": 146,
+            "last_commit": "2026-09-25T17:35:00Z",
+            "open_issues": 152,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13306,
+            "stars": 13313,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -541,11 +704,11 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T17:35:05Z",
-            "open_issues": 391,
+            "last_commit": "2026-09-24T19:49:04Z",
+            "open_issues": 395,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8626,
+            "stars": 8628,
             "topics": [
               "cookbook",
               "cooking",
@@ -562,6 +725,139 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "KitchenOwl",
+          "description": "Self-hosted grocery list and recipe manager with meal planning and expense tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.",
+            "homepage": "https://kitchenowl.org/",
+            "id": 335558932,
+            "language": "Dart",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:23:02Z",
+            "open_issues": 340,
+            "owner": "TomBursch",
+            "repo": "kitchenowl",
+            "stars": 3698,
+            "topics": [
+              "android",
+              "cross-platform",
+              "expense-tracker",
+              "flutter",
+              "grocery-list",
+              "ios",
+              "kitchenowl",
+              "mobile-app",
+              "recipe-manager",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "recipe-scrapers",
+          "description": "Python library for scraping recipes from hundreds of cooking websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python package for scraping recipes data",
+            "homepage": "https://docs.recipe-scrapers.com",
+            "id": 42446168,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-09T21:17:55Z",
+            "open_issues": 136,
+            "owner": "hhursev",
+            "repo": "recipe-scrapers",
+            "stars": 2236,
+            "topics": [
+              "data-extraction",
+              "food",
+              "html-parsing",
+              "json-ld",
+              "library",
+              "meal",
+              "microdata",
+              "opengraph",
+              "python",
+              "recipe-extraction",
+              "recipe-parser",
+              "recipe-schema",
+              "recipe-scraper",
+              "schema-org"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CookCLI",
+          "description": "Command-line tool and local web server for managing recipes written in Cooklang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Recipe Management CLI + embedded web-server in one binary",
+            "homepage": "https://demo.cooklang.org",
+            "id": 330776661,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-25T09:17:08Z",
+            "open_issues": 33,
+            "owner": "cooklang",
+            "repo": "cookcli",
+            "stars": 1391,
+            "topics": [
+              "cooklang"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "RecipeSage",
+          "description": "Collaborative recipe keeper, meal planner, and shopping list organizer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Collaborative Recipe Keeper, Meal Planner, and Shopping List Organizer in PWA form.",
+            "homepage": "https://recipesage.com",
+            "id": 164374373,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-24T17:11:41Z",
+            "open_issues": 22,
+            "owner": "julianpoy",
+            "repo": "RecipeSage",
+            "stars": 965,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEats",
+          "description": "Self-hosted recipe management app built with Django and React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":pizza: Self Hosted Recipe Management App :hamburger: ",
+            "homepage": "https://open-eats.github.io/",
+            "id": 118812060,
+            "language": "Dockerfile",
+            "license": "MIT",
+            "last_commit": "2026-09-09T16:34:13Z",
+            "open_issues": 46,
+            "owner": "open-eats",
+            "repo": "OpenEats",
+            "stars": 695,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
         },
         {
           "node_type": "item",
@@ -596,8 +892,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T01:12:21Z",
-            "open_issues": 320,
+            "last_commit": "2026-09-25T17:47:30Z",
+            "open_issues": 318,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 643,
@@ -651,6 +947,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HeaterMeter",
+          "description": "Raspberry Pi-based BBQ temperature controller.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "HeaterMeter and LinkMeter Arduino BBQ Controller",
+            "homepage": "https://tvwbb.com/forums/heatermeter-diy-bbq-controller.85/",
+            "id": 1612028,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2025-08-09T13:17:14Z",
+            "open_issues": 7,
+            "owner": "CapnBry",
+            "repo": "HeaterMeter",
+            "stars": 557,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
         },
         {
           "node_type": "item",
@@ -759,6 +1076,33 @@
         },
         {
           "node_type": "item",
+          "title": "ingredient-parser",
+          "description": "Python library for parsing structured data from recipe ingredient sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool to parse recipe ingredients into structured data",
+            "homepage": "https://ingredient-parser.readthedocs.io/en/latest/",
+            "id": 418179759,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-25T14:01:27Z",
+            "open_issues": 2,
+            "owner": "strangetom",
+            "repo": "ingredient-parser",
+            "stars": 167,
+            "topics": [
+              "ingredients",
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "recipes"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "meanrecipe",
           "description": "Get a consensus recipe for your next meal.",
           "children": [],
@@ -787,6 +1131,36 @@
         },
         {
           "node_type": "item",
+          "title": "PiFire",
+          "description": "Raspberry Pi-based smart controller for pellet smokers and grills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PiFire is a Smart WiFi enabled controller for your pellet smoker / grill.",
+            "homepage": "http://docs.pifire.io",
+            "id": 293327648,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-13T16:32:33Z",
+            "open_issues": 11,
+            "owner": "nebhead",
+            "repo": "PiFire",
+            "stars": 144,
+            "topics": [
+              "bootstrap",
+              "chartjs",
+              "flask",
+              "html",
+              "javascript",
+              "python",
+              "raspberry-pi",
+              "smoker-grill"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "recipebook",
           "description": "This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.",
           "children": [],
@@ -809,7 +1183,7 @@
         {
           "node_type": "item",
           "title": "foodprocessor",
-          "description": "A react/mobx javascript app for displaying recipes.",
+          "description": "A React/MobX JavaScript app for displaying recipes.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -904,6 +1278,27 @@
         },
         {
           "node_type": "item",
+          "title": "OwnRecipes",
+          "description": "Self-hosted recipe management app, a fork of OpenEats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Self Hosted Recipe Management App",
+            "homepage": "https://ownrecipes.github.io/ownrecipes-web/",
+            "id": 453922425,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-02-15T14:21:48Z",
+            "open_issues": 4,
+            "owner": "ownrecipes",
+            "repo": "OwnRecipes",
+            "stars": 12,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "MEWPlanner",
           "description": "A smart meal planner with a focus on diabetic-friendly meals (NUS-ISS project).",
           "children": [],
@@ -930,6 +1325,42 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "WonderFood",
+          "description": "Local-first Android workspace for recipes, meal planning, inventory, receipts, shopping, and reviewable AI proposals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first Android food workspace with reviewable AI and app-link commands",
+            "homepage": "https://github.com/vaddisrinivas/wonderfood/releases/latest",
+            "id": 1304347795,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-28T15:44:22Z",
+            "open_issues": 40,
+            "owner": "vaddisrinivas",
+            "repo": "wonderfood",
+            "stars": 0,
+            "topics": [
+              "android",
+              "android-app",
+              "food",
+              "food-tracker",
+              "foss",
+              "health-connect",
+              "jetpack-compose",
+              "kotlin",
+              "local-first",
+              "meal-planner",
+              "nutrition",
+              "pantry",
+              "privacy",
+              "recipe-manager"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
         },
         {
           "children": [
@@ -973,6 +1404,29 @@
             },
             {
               "node_type": "item",
+              "title": "Cooklang",
+              "description": "A markup language for writing recipes as plain text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Home for language specification and discussions.",
+                "homepage": "https://cooklang.github.io/cooklang-rs/",
+                "id": 347440291,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-09-18T15:33:35Z",
+                "open_issues": 10,
+                "owner": "cooklang",
+                "repo": "spec",
+                "stars": 695,
+                "topics": [
+                  "cooklang"
+                ]
+              },
+              "first_seen": "2026-09-25T18:05:01.183Z"
+            },
+            {
+              "node_type": "item",
               "title": "Flutter Recipe App Template (hungry)",
               "description": "A starter template for building recipe apps with Flutter.",
               "children": [],
@@ -1004,6 +1458,29 @@
                 ]
               },
               "first_seen": "2026-08-28T23:12:57.939Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cooklang-rs",
+              "description": "Rust parser for Cooklang recipes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Canonical Cooklang parser in Rust ",
+                "homepage": "https://cooklang.github.io/cooklang-rs/",
+                "id": 641994367,
+                "language": "Rust",
+                "license": "MIT",
+                "last_commit": "2026-07-11T21:24:31Z",
+                "open_issues": 24,
+                "owner": "cooklang",
+                "repo": "cooklang-rs",
+                "stars": 124,
+                "topics": [
+                  "cooklang"
+                ]
+              },
+              "first_seen": "2026-09-25T18:05:01.183Z"
             },
             {
               "node_type": "item",
@@ -1042,16 +1519,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:58:02.358Z",
+    "last_updated": "2026-09-25T18:05:01.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
       "homepage": null,
       "id": 148030409,
       "language": null,
-      "license": null,
-      "last_commit": "2026-09-23T17:00:34Z",
-      "open_issues": 2,
+      "license": "CC0-1.0",
+      "last_commit": "2026-09-25T11:07:24Z",
+      "open_issues": 0,
       "owner": "bbbenji",
       "repo": "awesome-recipes",
       "stars": 68,
@@ -1063,7 +1540,7 @@
         "recipes"
       ]
     },
-    "original_repository_sha": "0f0f029279922b0981e6cfb3b8105efa2f98096a",
+    "original_repository_sha": "f7c308fe95c59f49c5ce23a0d9b95242501326a1",
     "enhanced_repository": "enhansome/enhansome-recipes",
     "enhanced_repository_description": null,
     "title": "Awesome Recipes with stars"
