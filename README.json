@@ -19,7 +19,7 @@
             "open_issues": 466,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102362,
+            "stars": 102372,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 133,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24689,
+            "stars": 24696,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -67,7 +67,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6515,
+            "stars": 6516,
             "topics": [
               "cook",
               "food",
@@ -122,7 +122,7 @@
             "open_issues": 7,
             "owner": "LukeSmithxyz",
             "repo": "based.cooking",
-            "stars": 2349,
+            "stars": 2348,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -374,7 +374,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3627,
+            "stars": 3628,
             "topics": [
               "baking",
               "bread",
@@ -484,7 +484,7 @@
             "open_issues": 15,
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1098,
+            "stars": 1099,
             "topics": [
               "api",
               "bar",
@@ -544,7 +544,7 @@
             "open_issues": 56,
             "owner": "Brewtarget",
             "repo": "brewtarget",
-            "stars": 360,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -561,7 +561,7 @@
             "id": 305791686,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T17:49:08Z",
+            "last_commit": "2026-09-29T15:58:56Z",
             "open_issues": 27,
             "owner": "decentespresso",
             "repo": "de1app",
@@ -609,8 +609,8 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T11:10:57Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-29T02:02:22Z",
+            "open_issues": 2,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 93,
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T15:17:07Z",
+            "last_commit": "2026-09-29T15:48:55Z",
             "open_issues": 150,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13364,
+            "stars": 13379,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -704,11 +704,11 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T23:19:31Z",
-            "open_issues": 395,
+            "last_commit": "2026-09-29T17:06:28Z",
+            "open_issues": 396,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8640,
+            "stars": 8644,
             "topics": [
               "cookbook",
               "cooking",
@@ -739,10 +739,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-26T10:09:18Z",
-            "open_issues": 339,
+            "open_issues": 340,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3710,
+            "stars": 3715,
             "topics": [
               "android",
               "cross-platform",
@@ -774,7 +774,7 @@
             "open_issues": 137,
             "owner": "hhursev",
             "repo": "recipe-scrapers",
-            "stars": 2240,
+            "stars": 2241,
             "topics": [
               "data-extraction",
               "food",
@@ -806,11 +806,11 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:11:56Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-29T17:12:45Z",
+            "open_issues": 37,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1395,
+            "stars": 1398,
             "topics": [
               "cooklang"
             ]
@@ -829,8 +829,8 @@
             "id": 164374373,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-28T16:16:11Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-29T16:23:55Z",
+            "open_issues": 24,
             "owner": "julianpoy",
             "repo": "RecipeSage",
             "stars": 966,
@@ -892,8 +892,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T17:37:13Z",
-            "open_issues": 316,
+            "last_commit": "2026-09-29T01:10:47Z",
+            "open_issues": 319,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 643,
@@ -1471,7 +1471,7 @@
                 "id": 641994367,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-07-11T21:24:31Z",
+                "last_commit": "2026-09-29T18:18:02Z",
                 "open_issues": 24,
                 "owner": "cooklang",
                 "repo": "cooklang-rs",
@@ -1519,7 +1519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:14:18.582Z",
+    "last_updated": "2026-09-29T18:52:43.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
@@ -1531,7 +1531,7 @@
       "open_issues": 0,
       "owner": "bbbenji",
       "repo": "awesome-recipes",
-      "stars": 68,
+      "stars": 69,
       "topics": [
         "awesome-list",
         "baking",
