@@ -42,11 +42,11 @@
             "id": 784788673,
             "language": "Dockerfile",
             "license": null,
-            "last_commit": "2026-09-17T12:33:59Z",
-            "open_issues": 134,
+            "last_commit": "2026-10-02T16:06:13Z",
+            "open_issues": 133,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24707,
+            "stars": 24704,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -67,7 +67,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6515,
+            "stars": 6514,
             "topics": [
               "cook",
               "food",
@@ -484,7 +484,7 @@
             "open_issues": 14,
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1101,
+            "stars": 1100,
             "topics": [
               "api",
               "bar",
@@ -586,7 +586,7 @@
             "open_issues": 8,
             "owner": "karlomikus",
             "repo": "vue-salt-rim",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "bar",
               "cocktails",
@@ -609,7 +609,7 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T18:52:08Z",
+            "last_commit": "2026-10-02T17:29:49Z",
             "open_issues": 4,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T04:45:56Z",
+            "last_commit": "2026-10-02T18:16:12Z",
             "open_issues": 152,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13398,
+            "stars": 13404,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -705,10 +705,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T17:49:50Z",
-            "open_issues": 413,
+            "open_issues": 419,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8646,
+            "stars": 8649,
             "topics": [
               "cookbook",
               "cooking",
@@ -742,7 +742,7 @@
             "open_issues": 340,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3718,
+            "stars": 3720,
             "topics": [
               "android",
               "cross-platform",
@@ -774,7 +774,7 @@
             "open_issues": 137,
             "owner": "hhursev",
             "repo": "recipe-scrapers",
-            "stars": 2244,
+            "stars": 2245,
             "topics": [
               "data-extraction",
               "food",
@@ -802,17 +802,21 @@
           "repo_info": {
             "archived": false,
             "description": "Recipe Management CLI + embedded web-server in one binary",
-            "homepage": "https://demo.cooklang.org",
+            "homepage": "https://cooklang.org/cli/",
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:52:35Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-02T08:13:04Z",
+            "open_issues": 41,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1398,
+            "stars": 1399,
             "topics": [
-              "cooklang"
+              "cooklang",
+              "meal-planning",
+              "recipes",
+              "rust",
+              "shopping-list"
             ]
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -892,8 +896,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T01:22:53Z",
-            "open_issues": 320,
+            "last_commit": "2026-10-02T12:15:02Z",
+            "open_issues": 317,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 643,
@@ -1060,7 +1064,7 @@
             "open_issues": 29,
             "owner": "kirmanak",
             "repo": "Mealient",
-            "stars": 171,
+            "stars": 170,
             "topics": [
               "android",
               "android-app",
@@ -1086,7 +1090,7 @@
             "id": 418179759,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:03:24Z",
+            "last_commit": "2026-10-02T17:55:28Z",
             "open_issues": 3,
             "owner": "strangetom",
             "repo": "ingredient-parser",
@@ -1389,7 +1393,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Home for language specification and discussions.",
-                "homepage": "https://cooklang.github.io/cooklang-rs/",
+                "homepage": "https://cooklang.org/docs/spec/",
                 "id": 347440291,
                 "language": null,
                 "license": "MIT",
@@ -1399,7 +1403,10 @@
                 "repo": "spec",
                 "stars": 697,
                 "topics": [
-                  "cooklang"
+                  "cooklang",
+                  "markup-language",
+                  "recipes",
+                  "specification"
                 ]
               },
               "first_seen": "2026-09-25T18:05:01.183Z"
@@ -1450,13 +1457,16 @@
                 "id": 641994367,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-01T17:35:11Z",
+                "last_commit": "2026-10-02T08:12:17Z",
                 "open_issues": 24,
                 "owner": "cooklang",
                 "repo": "cooklang-rs",
                 "stars": 124,
                 "topics": [
-                  "cooklang"
+                  "cooklang",
+                  "parser",
+                  "recipes",
+                  "rust"
                 ]
               },
               "first_seen": "2026-09-25T18:05:01.183Z"
@@ -1498,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:03:00.209Z",
+    "last_updated": "2026-10-02T18:42:38.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
