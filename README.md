@@ -14,7 +14,7 @@
 ## Collections
 
 * [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 102,384 | 🐛 466 | 📅 2026-09-23 - A programmer's guide to cooking at home (Simplified Chinese).
-* [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 24,704 | 🐛 133 | 🌐 Dockerfile | 📅 2026-10-02 - Recipes from the Chinese fast-food chain Home Original Chicken, adapted for home cooking (Simplified Chinese).
+* [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 24,705 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-03 - Recipes from the Chinese fast-food chain Home Original Chicken, adapted for home cooking (Simplified Chinese).
 * [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,514 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-17 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 * [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,140 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [Based Cooking](https://github.com/LukeSmithxyz/based.cooking) ⭐ 2,349 | 🐛 7 | 🌐 CSS | 📅 2026-09-09 - A simple, ad-free, community-maintained recipe website with no life stories.
@@ -45,7 +45,7 @@
 ## Drinks & Cocktails
 
 * [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) ⭐ 2,673 | 🐛 1 | 📅 2026-10-01 - Open source mod adding pressure and temperature profiling to the Gaggia Classic espresso machine.
-* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,100 | 🐛 14 | 🌐 PHP | 📅 2026-09-23 - A self-hosted application for managing your home bar and cocktail recipes.
+* [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,101 | 🐛 14 | 🌐 PHP | 📅 2026-09-23 - A self-hosted application for managing your home bar and cocktail recipes.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 410 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20 - A community-driven collection of drink and cocktail recipes.
 * [Brewtarget](https://github.com/Brewtarget/brewtarget) ⭐ 359 | 🐛 56 | 🌐 C++ | 📅 2026-09-25 - Beer recipe design software for homebrewers.
 * [de1app](https://github.com/decentespresso/de1app) ⭐ 225 | 🐛 29 | 🌐 HTML | 📅 2026-10-01 - Open source tablet app for the Decent espresso machine, with shareable espresso profiles.
@@ -54,13 +54,13 @@
 
 ## Tools
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,404 | 🐛 152 | 🌐 Python | 📅 2026-10-02 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,411 | 🐛 150 | 🌐 Python | 📅 2026-10-02 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
 * [Grocy](https://github.com/grocy/grocy) ⭐ 9,543 | 🐛 136 | 🌐 Blade | 📅 2026-09-16 - A self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,649 | 🐛 419 | 🌐 HTML | 📅 2026-10-01 - Application for managing recipes, planning meals, building shopping lists and much more.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,647 | 🐛 420 | 🌐 HTML | 📅 2026-10-01 - Application for managing recipes, planning meals, building shopping lists and much more.
 * [KitchenOwl](https://github.com/TomBursch/kitchenowl) ⭐ 3,720 | 🐛 340 | 🌐 Dart | 📅 2026-09-26 - Self-hosted grocery list and recipe manager with meal planning and expense tracking.
 * [recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ⭐ 2,245 | 🐛 137 | 🌐 Python | 📅 2026-09-28 - Python library for scraping recipes from hundreds of cooking websites.
 * [CookCLI](https://github.com/cooklang/cookcli) ⭐ 1,399 | 🐛 41 | 🌐 Rust | 📅 2026-10-02 - Command-line tool and local web server for managing recipes written in Cooklang.
-* [RecipeSage](https://github.com/julianpoy/RecipeSage) ⭐ 967 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-30 - Collaborative recipe keeper, meal planner, and shopping list organizer.
+* [RecipeSage](https://github.com/julianpoy/RecipeSage) ⭐ 967 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-03 - Collaborative recipe keeper, meal planner, and shopping list organizer.
 * [OpenEats](https://github.com/open-eats/OpenEats) ⭐ 695 | 🐛 46 | 🌐 Dockerfile | 📅 2026-09-09 - Self-hosted recipe management app built with Django and React.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 670 | 🐛 31 | 🌐 HTML | 📅 2026-08-01 - Simple recipes in Markdown format.
 * [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 643 | 🐛 317 | 🌐 HTML | 📅 2026-10-02 - Recipe management app for Nextcloud.
@@ -96,4 +96,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
