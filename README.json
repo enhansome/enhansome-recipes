@@ -19,7 +19,7 @@
             "open_issues": 466,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102429,
+            "stars": 102437,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 133,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24718,
+            "stars": 24719,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -67,7 +67,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6513,
+            "stars": 6514,
             "topics": [
               "cook",
               "food",
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "Zer0-bit",
             "repo": "gaggiuino",
-            "stars": 2675,
+            "stars": 2677,
             "topics": [
               "arduino",
               "blackpill",
@@ -480,7 +480,7 @@
             "id": 545016751,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-10-03T18:56:29Z",
+            "last_commit": "2026-10-06T18:48:32Z",
             "open_issues": 14,
             "owner": "karlomikus",
             "repo": "bar-assistant",
@@ -561,7 +561,7 @@
             "id": 305791686,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T09:21:53Z",
+            "last_commit": "2026-10-06T17:18:38Z",
             "open_issues": 30,
             "owner": "decentespresso",
             "repo": "de1app",
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T06:30:23Z",
+            "last_commit": "2026-10-06T10:57:12Z",
             "open_issues": 154,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13453,
+            "stars": 13457,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -677,7 +677,7 @@
             "open_issues": 136,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9554,
+            "stars": 9556,
             "topics": [
               "erp",
               "food",
@@ -708,7 +708,7 @@
             "open_issues": 420,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8656,
+            "stars": 8655,
             "topics": [
               "cookbook",
               "cooking",
@@ -742,7 +742,7 @@
             "open_issues": 341,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3724,
+            "stars": 3727,
             "topics": [
               "android",
               "cross-platform",
@@ -807,7 +807,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-05T20:52:06Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1399,
@@ -833,8 +833,8 @@
             "id": 164374373,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-06T05:48:48Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-06T16:23:07Z",
+            "open_issues": 24,
             "owner": "julianpoy",
             "repo": "RecipeSage",
             "stars": 967,
@@ -900,7 +900,7 @@
             "open_issues": 321,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "nextcloud",
               "recipe",
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:27:01.844Z",
+    "last_updated": "2026-10-06T19:06:29.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
