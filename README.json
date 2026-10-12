@@ -19,7 +19,7 @@
             "open_issues": 467,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102702,
+            "stars": 102738,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 132,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24772,
+            "stars": 24781,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -67,7 +67,7 @@
             "open_issues": 22,
             "owner": "YunYouJun",
             "repo": "cook",
-            "stars": 6517,
+            "stars": 6518,
             "topics": [
               "cook",
               "food",
@@ -122,7 +122,7 @@
             "open_issues": 7,
             "owner": "LukeSmithxyz",
             "repo": "based.cooking",
-            "stars": 2348,
+            "stars": 2349,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -370,11 +370,11 @@
             "id": 450634273,
             "language": "TeX",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-09T18:18:52Z",
+            "last_commit": "2026-10-12T09:33:56Z",
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3635,
+            "stars": 3637,
             "topics": [
               "baking",
               "bread",
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "Zer0-bit",
             "repo": "gaggiuino",
-            "stars": 2682,
+            "stars": 2683,
             "topics": [
               "arduino",
               "blackpill",
@@ -562,10 +562,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T08:38:13Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "decentespresso",
             "repo": "de1app",
-            "stars": 225,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T10:25:39Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-12T20:27:03Z",
+            "open_issues": 171,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13511,
+            "stars": 13530,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -677,7 +677,7 @@
             "open_issues": 136,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9578,
+            "stars": 9586,
             "topics": [
               "erp",
               "food",
@@ -705,10 +705,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T00:35:33Z",
-            "open_issues": 419,
+            "open_issues": 412,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8661,
+            "stars": 8663,
             "topics": [
               "cookbook",
               "cooking",
@@ -739,10 +739,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-26T10:09:18Z",
-            "open_issues": 343,
+            "open_issues": 344,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3736,
+            "stars": 3742,
             "topics": [
               "android",
               "cross-platform",
@@ -774,7 +774,7 @@
             "open_issues": 137,
             "owner": "hhursev",
             "repo": "recipe-scrapers",
-            "stars": 2245,
+            "stars": 2247,
             "topics": [
               "data-extraction",
               "food",
@@ -806,8 +806,8 @@
             "id": 330776661,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-11T16:43:06Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-11T22:15:00Z",
+            "open_issues": 34,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1405,
@@ -838,7 +838,7 @@
             "open_issues": 23,
             "owner": "julianpoy",
             "repo": "RecipeSage",
-            "stars": 973,
+            "stars": 975,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -897,8 +897,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T10:52:51Z",
-            "open_issues": 324,
+            "last_commit": "2026-10-12T12:24:03Z",
+            "open_issues": 323,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 645,
@@ -990,7 +990,7 @@
             "open_issues": 9,
             "owner": "hmontazeri",
             "repo": "is-vegan",
-            "stars": 490,
+            "stars": 489,
             "topics": [
               "food",
               "ingredients",
@@ -1012,8 +1012,8 @@
             "id": 368680440,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T06:03:05Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-12T20:48:57Z",
+            "open_issues": 69,
             "owner": "reaper47",
             "repo": "recipya",
             "stars": 410,
@@ -1051,6 +1051,33 @@
         },
         {
           "node_type": "item",
+          "title": "ingredient-parser",
+          "description": "Python library for parsing structured data from recipe ingredient sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A tool to parse recipe ingredients into structured data",
+            "homepage": "https://ingredient-parser.readthedocs.io/en/latest/",
+            "id": 418179759,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-12T19:26:16Z",
+            "open_issues": 3,
+            "owner": "strangetom",
+            "repo": "ingredient-parser",
+            "stars": 170,
+            "topics": [
+              "ingredients",
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "recipes"
+            ]
+          },
+          "first_seen": "2026-09-25T18:05:01.183Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mealient",
           "description": "An Android client for the Mealie self-hosted recipe manager.",
           "children": [],
@@ -1078,33 +1105,6 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "ingredient-parser",
-          "description": "Python library for parsing structured data from recipe ingredient sentences.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A tool to parse recipe ingredients into structured data",
-            "homepage": "https://ingredient-parser.readthedocs.io/en/latest/",
-            "id": 418179759,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-11T16:39:22Z",
-            "open_issues": 2,
-            "owner": "strangetom",
-            "repo": "ingredient-parser",
-            "stars": 169,
-            "topics": [
-              "ingredients",
-              "natural-language-processing",
-              "nlp",
-              "python",
-              "recipes"
-            ]
-          },
-          "first_seen": "2026-09-25T18:05:01.183Z"
         },
         {
           "node_type": "item",
@@ -1509,7 +1509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:28:28.621Z",
+    "last_updated": "2026-10-12T21:52:32.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
