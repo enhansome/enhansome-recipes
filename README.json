@@ -19,7 +19,7 @@
             "open_issues": 469,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102810,
+            "stars": 102841,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 132,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24802,
+            "stars": 24803,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -92,7 +92,7 @@
             "open_issues": 9,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4143,
+            "stars": 4142,
             "topics": [
               "baking",
               "bread",
@@ -374,7 +374,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3637,
+            "stars": 3638,
             "topics": [
               "baking",
               "bread",
@@ -453,7 +453,7 @@
             "open_issues": 1,
             "owner": "Zer0-bit",
             "repo": "gaggiuino",
-            "stars": 2684,
+            "stars": 2686,
             "topics": [
               "arduino",
               "blackpill",
@@ -484,7 +484,7 @@
             "open_issues": 14,
             "owner": "karlomikus",
             "repo": "bar-assistant",
-            "stars": 1106,
+            "stars": 1107,
             "topics": [
               "api",
               "bar",
@@ -541,7 +541,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T20:26:58Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "Brewtarget",
             "repo": "brewtarget",
             "stars": 361,
@@ -609,8 +609,8 @@
             "id": 185077056,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T13:48:24Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-16T16:04:43Z",
+            "open_issues": 6,
             "owner": "AndreWohnsland",
             "repo": "CocktailBerry",
             "stars": 93,
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T10:13:11Z",
-            "open_issues": 161,
+            "last_commit": "2026-10-16T15:00:23Z",
+            "open_issues": 149,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13573,
+            "stars": 13583,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -677,7 +677,7 @@
             "open_issues": 136,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9590,
+            "stars": 9593,
             "topics": [
               "erp",
               "food",
@@ -704,8 +704,8 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T00:35:33Z",
-            "open_issues": 412,
+            "last_commit": "2026-10-16T12:36:16Z",
+            "open_issues": 413,
             "owner": "TandoorRecipes",
             "repo": "recipes",
             "stars": 8667,
@@ -739,10 +739,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-26T10:09:18Z",
-            "open_issues": 346,
+            "open_issues": 347,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3750,
+            "stars": 3752,
             "topics": [
               "android",
               "cross-platform",
@@ -810,7 +810,7 @@
             "open_issues": 80,
             "owner": "cooklang",
             "repo": "cookcli",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "cooklang",
               "meal-planning",
@@ -897,11 +897,11 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T15:10:23Z",
-            "open_issues": 326,
+            "last_commit": "2026-10-16T00:50:05Z",
+            "open_issues": 328,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 644,
+            "stars": 645,
             "topics": [
               "nextcloud",
               "recipe",
@@ -1012,8 +1012,8 @@
             "id": 368680440,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T20:48:57Z",
-            "open_issues": 69,
+            "last_commit": "2026-10-16T14:09:00Z",
+            "open_issues": 70,
             "owner": "reaper47",
             "repo": "recipya",
             "stars": 411,
@@ -1027,6 +1027,43 @@
             ]
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Libre Calculator",
+          "description": "Scales an ingredient quantity by the serving ratio, with input-specific worked steps and a scale-factor diagram.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The universe in numbers. Free, open-source calculators for everything countable.",
+            "homepage": "https://librecalculator.com",
+            "id": 1414107238,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-15T19:53:45Z",
+            "open_issues": 0,
+            "owner": "tonyzedginidze",
+            "repo": "librecalculator",
+            "stars": 203,
+            "topics": [
+              "astro",
+              "bun",
+              "calculator",
+              "calculators",
+              "education",
+              "finance-calculator",
+              "learning",
+              "math",
+              "no-ads",
+              "open-source",
+              "privacy",
+              "react",
+              "tauri",
+              "typescript",
+              "unit-converter"
+            ]
+          },
+          "first_seen": "2026-10-16T17:42:02.867Z"
         },
         {
           "node_type": "item",
@@ -1061,7 +1098,7 @@
             "id": 418179759,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T19:33:17Z",
+            "last_commit": "2026-10-16T17:33:16Z",
             "open_issues": 2,
             "owner": "strangetom",
             "repo": "ingredient-parser",
@@ -1509,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T17:53:30.656Z",
+    "last_updated": "2026-10-16T17:42:02.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
@@ -1517,7 +1554,7 @@
       "id": 148030409,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-25T11:07:24Z",
+      "last_commit": "2026-10-16T08:55:49Z",
       "open_issues": 0,
       "owner": "bbbenji",
       "repo": "awesome-recipes",
@@ -1530,7 +1567,7 @@
         "recipes"
       ]
     },
-    "original_repository_sha": "f7c308fe95c59f49c5ce23a0d9b95242501326a1",
+    "original_repository_sha": "e12c613efa860bf081843aec9b5eb4e4d24a0080",
     "enhanced_repository": "enhansome/enhansome-recipes",
     "enhanced_repository_description": null,
     "title": "Awesome Recipes with stars"
