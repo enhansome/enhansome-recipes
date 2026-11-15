@@ -13,7 +13,7 @@
 
 ## Collections
 
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,940 | 🐛 469 | 📅 2026-11-14 - A programmer's guide to cooking at home (Simplified Chinese).
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,964 | 🐛 468 | 📅 2026-11-14 - A programmer's guide to cooking at home (Simplified Chinese).
 * [CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) ⭐ 24,882 | 🐛 133 | 🌐 JavaScript | 📅 2026-10-03 - Recipes from the Chinese fast-food chain Home Original Chicken, adapted for home cooking (Simplified Chinese).
 * [YunYouJun/cook](https://github.com/YunYouJun/cook) ⭐ 6,547 | 🐛 5 | 🌐 Swift | 📅 2026-11-14 - 🍲 OK, Let's Cook! A collection of Chinese recipes.
 * [The Bread code](https://github.com/hendricius/the-bread-code) ⭐ 4,145 | 🐛 10 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
@@ -38,13 +38,13 @@
 
 ## Baking
 
-* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,642 | 🐛 23 | 🌐 TeX | 📅 2026-11-11 - Open source book for making sourdough bread at home.
+* [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,644 | 🐛 23 | 🌐 TeX | 📅 2026-11-11 - Open source book for making sourdough bread at home.
 * [Open Source Bagels](https://github.com/andrewkern/bagels) ⭐ 29 | 🐛 2 | 📅 2024-11-03 - Aims to be the best open source bagel recipe.
 * [Open Source Dough Sheeter](https://github.com/sjop/doughsheeter) ⭐ 0 | 🐛 0 | 📅 2019-06-05 - A 3D-printable dough sheeter for home bakers, based on French Guy Cooking's design.
 
 ## Drinks & Cocktails
 
-* [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) ⭐ 2,697 | 🐛 2 | 📅 2026-11-09 - Open source mod adding pressure and temperature profiling to the Gaggia Classic espresso machine.
+* [Gaggiuino](https://github.com/Zer0-bit/gaggiuino) ⭐ 2,698 | 🐛 2 | 📅 2026-11-09 - Open source mod adding pressure and temperature profiling to the Gaggia Classic espresso machine.
 * [Bar Assistant](https://github.com/karlomikus/bar-assistant) ⭐ 1,119 | 🐛 9 | 🌐 PHP | 📅 2026-11-14 - A self-hosted application for managing your home bar and cocktail recipes.
 * [Open Drinks](https://github.com/alfg/opendrinks) ⭐ 416 | 🐛 36 | 🌐 JavaScript | 📅 2026-06-20 - A community-driven collection of drink and cocktail recipes.
 * [Brewtarget](https://github.com/Brewtarget/brewtarget) ⭐ 361 | 🐛 49 | 🌐 C++ | 📅 2026-11-13 - Beer recipe design software for homebrewers.
@@ -54,26 +54,26 @@
 
 ## Tools
 
-* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,896 | 🐛 106 | 🌐 Python | 📅 2026-11-14 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
-* [Grocy](https://github.com/grocy/grocy) ⭐ 9,680 | 🐛 141 | 🌐 Blade | 📅 2026-11-13 - A self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,738 | 🐛 418 | 🌐 HTML | 📅 2026-11-12 - Application for managing recipes, planning meals, building shopping lists and much more.
-* [KitchenOwl](https://github.com/TomBursch/kitchenowl) ⭐ 3,858 | 🐛 332 | 🌐 Dart | 📅 2026-11-13 - Self-hosted grocery list and recipe manager with meal planning and expense tracking.
-* [recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ⭐ 2,266 | 🐛 134 | 🌐 Python | 📅 2026-11-13 - Python library for scraping recipes from hundreds of cooking websites.
-* [CookCLI](https://github.com/cooklang/cookcli) ⭐ 1,441 | 🐛 35 | 🌐 Rust | 📅 2026-11-12 - Command-line tool and local web server for managing recipes written in Cooklang.
-* [RecipeSage](https://github.com/julianpoy/RecipeSage) ⭐ 1,001 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-14 - Collaborative recipe keeper, meal planner, and shopping list organizer.
+* [Mealie](https://github.com/mealie-recipes/mealie) ⭐ 13,904 | 🐛 109 | 🌐 Python | 📅 2026-11-15 - Self-hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend.
+* [Grocy](https://github.com/grocy/grocy) ⭐ 9,684 | 🐛 142 | 🌐 Blade | 📅 2026-11-13 - A self-hosted groceries and household management solution with recipe and meal planning features.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,739 | 🐛 419 | 🌐 HTML | 📅 2026-11-15 - Application for managing recipes, planning meals, building shopping lists and much more.
+* [KitchenOwl](https://github.com/TomBursch/kitchenowl) ⭐ 3,861 | 🐛 338 | 🌐 Dart | 📅 2026-11-13 - Self-hosted grocery list and recipe manager with meal planning and expense tracking.
+* [recipe-scrapers](https://github.com/hhursev/recipe-scrapers) ⭐ 2,265 | 🐛 126 | 🌐 Python | 📅 2026-11-15 - Python library for scraping recipes from hundreds of cooking websites.
+* [CookCLI](https://github.com/cooklang/cookcli) ⭐ 1,442 | 🐛 41 | 🌐 Rust | 📅 2026-11-15 - Command-line tool and local web server for managing recipes written in Cooklang.
+* [RecipeSage](https://github.com/julianpoy/RecipeSage) ⭐ 1,003 | 🐛 25 | 🌐 TypeScript | 📅 2026-11-15 - Collaborative recipe keeper, meal planner, and shopping list organizer.
 * [OpenEats](https://github.com/open-eats/OpenEats) ⭐ 696 | 🐛 46 | 🌐 Dockerfile | 📅 2026-09-09 - Self-hosted recipe management app built with Django and React.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 672 | 🐛 31 | 🌐 HTML | 📅 2026-08-01 - Simple recipes in Markdown format.
-* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 654 | 🐛 337 | 🌐 HTML | 📅 2026-11-14 - Recipe management app for Nextcloud.
-* [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 588 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef: Classification of Cooking Dishes with Machine Learning.
+* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 654 | 🐛 337 | 🌐 HTML | 📅 2026-11-15 - Recipe management app for Nextcloud.
+* [Food Recipe CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 589 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef: Classification of Cooking Dishes with Machine Learning.
 * [HeaterMeter](https://github.com/CapnBry/HeaterMeter) ⭐ 557 | 🐛 7 | 🌐 C | 📅 2025-08-09 - Raspberry Pi-based BBQ temperature controller.
-* [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 492 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - A tool to help identify vegan and non-vegan food ingredients.
+* [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 491 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - A tool to help identify vegan and non-vegan food ingredients.
 * [Recipya](https://github.com/reaper47/recipya) ⭐ 413 | 🐛 68 | 🌐 Go | 📅 2026-11-02 - A clean, simple and powerful self-hosted recipe manager.
-* [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) ⭐ 304 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Scales an ingredient quantity by the serving ratio, with input-specific worked steps and a scale-factor diagram.
+* [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) ⭐ 305 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-06 - Scales an ingredient quantity by the serving ratio, with input-specific worked steps and a scale-factor diagram.
 * [RasPiBrew](https://github.com/steve71/RasPiBrew) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2017-10-09 - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking.
-* [ingredient-parser](https://github.com/strangetom/ingredient-parser) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Python library for parsing structured data from recipe ingredient sentences.
+* [ingredient-parser](https://github.com/strangetom/ingredient-parser) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2026-11-15 - Python library for parsing structured data from recipe ingredient sentences.
 * [Mealient](https://github.com/kirmanak/Mealient) ⚠️ Archived - An Android client for the Mealie self-hosted recipe manager.
 * [meanrecipe](https://github.com/schollz/meanrecipe) ⭐ 163 | 🐛 5 | 🌐 Go | 📅 2022-11-21 - Get a consensus recipe for your next meal.
-* [PiFire](https://github.com/nebhead/PiFire) ⭐ 147 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26 - Raspberry Pi-based smart controller for pellet smokers and grills.
+* [PiFire](https://github.com/nebhead/PiFire) ⭐ 148 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-26 - Raspberry Pi-based smart controller for pellet smokers and grills.
 * [recipebook](https://github.com/dpapathanasiou/recipebook) ⭐ 116 | 🐛 1 | 🌐 Python | 📅 2020-05-09 - This is a simple application for scraping and parsing food recipe data found on the web in hRecipe format, producing results in json.
 * [foodprocessor](https://github.com/pearofducks/foodprocessor) ⭐ 47 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-15 - A React/MobX JavaScript app for displaying recipes.
 * [RecipeParser](https://github.com/Brooke-white/RecipeParser) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2017-08-24 - A tool to convert online recipes into Markdown format.
@@ -86,9 +86,9 @@
 ### Developer Resources
 
 * [React Native Recipes App Template](https://github.com/dopebase/react-native-recipes-app) ⭐ 818 | 🐛 16 | 🌐 JavaScript | 📅 2025-11-28 - A starter template for recipe apps in React Native.
-* [Cooklang](https://github.com/cooklang/spec) ⭐ 699 | 🐛 14 | 📅 2026-11-14 - A markup language for writing recipes as plain text.
+* [Cooklang](https://github.com/cooklang/spec) ⭐ 699 | 🐛 20 | 📅 2026-11-15 - A markup language for writing recipes as plain text.
 * [Flutter Recipe App Template (hungry)](https://github.com/mrezkys/hungry) ⭐ 128 | 🐛 1 | 🌐 Dart | 📅 2023-10-09 - A starter template for building recipe apps with Flutter.
-* [cooklang-rs](https://github.com/cooklang/cooklang-rs) ⭐ 126 | 🐛 30 | 🌐 Rust | 📅 2026-11-10 - Rust parser for Cooklang recipes.
+* [cooklang-rs](https://github.com/cooklang/cooklang-rs) ⭐ 126 | 🐛 33 | 🌐 Rust | 📅 2026-11-15 - Rust parser for Cooklang recipes.
 * [Cook-It Android XML Template](https://github.com/dytlabs/Cook-It-Android-XML-Template) ⭐ 115 | 🐛 0 | 🌐 Java | 📅 2017-03-07 - Android XML layouts for a cooking/recipe app.
 
 ## Contributing
@@ -97,4 +97,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
