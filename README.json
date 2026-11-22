@@ -19,7 +19,7 @@
             "open_issues": 468,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 104171,
+            "stars": 104194,
             "topics": [
               "chinese",
               "cookbook",
@@ -46,7 +46,7 @@
             "open_issues": 133,
             "owner": "Gar-b-age",
             "repo": "CookLikeHOC",
-            "stars": 24911,
+            "stars": 24912,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -63,7 +63,7 @@
             "id": 481217412,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-11-21T06:17:46Z",
+            "last_commit": "2026-11-22T03:14:29Z",
             "open_issues": 3,
             "owner": "YunYouJun",
             "repo": "cook",
@@ -374,7 +374,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3647,
+            "stars": 3649,
             "topics": [
               "baking",
               "bread",
@@ -541,7 +541,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-20T12:14:03Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "Brewtarget",
             "repo": "brewtarget",
             "stars": 363,
@@ -582,7 +582,7 @@
             "id": 546849828,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-11-21T15:20:45Z",
+            "last_commit": "2026-11-22T16:40:10Z",
             "open_issues": 3,
             "owner": "karlomikus",
             "repo": "vue-salt-rim",
@@ -648,11 +648,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T18:53:00Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-22T14:07:21Z",
+            "open_issues": 121,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13965,
+            "stars": 13970,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -677,7 +677,7 @@
             "open_issues": 143,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9701,
+            "stars": 9703,
             "topics": [
               "erp",
               "food",
@@ -708,7 +708,7 @@
             "open_issues": 426,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8745,
+            "stars": 8748,
             "topics": [
               "cookbook",
               "cooking",
@@ -739,10 +739,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-13T21:39:49Z",
-            "open_issues": 353,
+            "open_issues": 356,
             "owner": "TomBursch",
             "repo": "kitchenowl",
-            "stars": 3879,
+            "stars": 3880,
             "topics": [
               "android",
               "cross-platform",
@@ -774,7 +774,7 @@
             "open_issues": 123,
             "owner": "hhursev",
             "repo": "recipe-scrapers",
-            "stars": 2263,
+            "stars": 2265,
             "topics": [
               "data-extraction",
               "food",
@@ -807,7 +807,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-20T16:23:41Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "cooklang",
             "repo": "cookcli",
             "stars": 1449,
@@ -838,7 +838,7 @@
             "open_issues": 30,
             "owner": "julianpoy",
             "repo": "RecipeSage",
-            "stars": 1009,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-09-25T18:05:01.183Z"
@@ -880,7 +880,7 @@
             "open_issues": 30,
             "owner": "clarklab",
             "repo": "chowdown",
-            "stars": 672,
+            "stars": 671,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:57.939Z"
@@ -897,8 +897,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T11:42:33Z",
-            "open_issues": 341,
+            "last_commit": "2026-11-22T14:52:09Z",
+            "open_issues": 340,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 655,
@@ -1098,7 +1098,7 @@
             "id": 418179759,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T16:00:32Z",
+            "last_commit": "2026-11-22T15:43:44Z",
             "open_issues": 3,
             "owner": "strangetom",
             "repo": "ingredient-parser",
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:14:53.208Z",
+    "last_updated": "2026-11-22T20:28:53.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome food recipes.",
